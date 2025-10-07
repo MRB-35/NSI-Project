@@ -43,6 +43,8 @@ Vous devez constituer des équipes de 2,3 voire 4 personnes en répartissant les
 ## Developpeur :
 -Maximilien ROUGEVIN-BAVILLE
 @ : m.rougevinbaville24@assomption.bzh
+Je commence à dev le dictionnaire pour les départements
+
 
 -Toma MATTLE
 @ : tomamattle@gmail.com | t.mattle20@assomption.bzh

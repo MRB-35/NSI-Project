@@ -12,7 +12,7 @@ Projet NSI, sur la sécurité sociale .
 
 ## Developpeur :
 -Maximilien ROUGEVIN-BAVILLE
-@ : m.rougevinbaville24@assomption.bzh
+@ : m.rougevinbaville24@assomption.bzh | maximilienrougevinbaville@gmail.com
 
 -Toma MATTLE
 @ : tomamattle@gmail.com | t.mattle20@assomption.bzh
